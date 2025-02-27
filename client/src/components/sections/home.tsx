@@ -1,4 +1,6 @@
 import { PhoneIcon } from "@heroicons/react/24/outline";
+import profileImage from "../../assets/Amrita_Gosh.png";
+import signature from "../../assets/signature.png";
 
 function Home(){
     return(
@@ -6,7 +8,7 @@ function Home(){
             <div className="lg:flex lg:flex-row lg:items-center lg:gap-5 m-10">
 
                 <div className="lg:h-120 lg:w-400 mb-10 border-10 border-white rounded-lg shadow-xl shadow-gray-600">
-                    <img src="./src/assets/Amrita_Gosh.png" className="h-full w-full object-cover hover:scale-110 transition-transform duration-600 ease-in-out" />
+                    <img src={profileImage} className="h-full w-full object-cover hover:scale-110 transition-transform duration-600 ease-in-out" />
                 </div>
 
                 <div className="text-center font-serif flex flex-col gap-5 items-center">
@@ -34,7 +36,7 @@ function Home(){
                     </div>
 
                     <div>
-                        <img src="./src/assets/signature.png" alt="" />
+                        <img src={signature} alt="" />
                     </div>
 
                     <button 
