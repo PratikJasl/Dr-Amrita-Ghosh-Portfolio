@@ -11,7 +11,7 @@ function Home(){
                     <img 
                         src={profileImage}
                         alt="profile-pic" 
-                        className="h-full w-full object-cover hover:scale-110 active:scale-140 transition-transform duration-800 ease-in-out" 
+                        className="h-full w-full object-cover hover:scale-110 active:scale-110 transition-transform duration-800 ease-in-out" 
                     />
                 </div>
 
