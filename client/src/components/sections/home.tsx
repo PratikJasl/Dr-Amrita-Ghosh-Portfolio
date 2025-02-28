@@ -51,7 +51,11 @@ function Home(){
 
                     <button 
                         className="w-fit bg-yellow-500 text-white text-xl p-2 rounded-lg hover:scale-120 active:scale-120 transition transform duration-500 ease-in-out">
-                        Book an Appointemnt
+                        <a 
+                            href="https://docs.google.com/forms/d/e/1FAIpQLSc91NClGO8w9ZVr5Gqzb0ByFrCD_1f2Vzh2MpKHYBPzsTGpwA/viewform?usp=header" 
+                            target="blank">
+                            Book an Appointemnt
+                        </a>
                     </button>
                 </div>
 
