@@ -1,6 +1,6 @@
 import { PhoneIcon } from "@heroicons/react/24/outline";
 import profileImage from "../../assets/Amrita_Gosh.png";
-import signature from "../../assets/signature.png";
+import signature from "../../assets/signature1.png";
 
 function Home(){
     return(
