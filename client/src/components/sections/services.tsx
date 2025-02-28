@@ -7,7 +7,7 @@ function Services(){
 
             <div className="flex flex-col flex-wrap justify-center lg:flex lg:flex-row gap-10 m-10 ">
 
-                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 transition transform duration-400 ease-in-out rounded-lg
+                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 active:scale-110 transition transform duration-400 ease-in-out rounded-lg
                 text-center flex flex-col justify-center gap-5 items-center"
                 >
                     <div className="text-xl font-bold font-serif">Diabetes Management</div>
@@ -18,7 +18,7 @@ function Services(){
                     </button> */}
                 </div>
 
-                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 transition transform duration-400 ease-in-out rounded-lg
+                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 active:scale-110 transition transform duration-400 ease-in-out rounded-lg
                 text-center flex flex-col justify-center gap-5 items-center"
                 >
                     <div className="text-xl font-bold font-serif">Diabetes Management</div>
@@ -29,7 +29,7 @@ function Services(){
                     </button> */}
                 </div>
 
-                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 transition transform duration-400 ease-in-out rounded-lg
+                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 active:scale-110 transition transform duration-400 ease-in-out rounded-lg
                 text-center flex flex-col justify-center gap-5 items-center"
                 >
                     <div className="text-xl font-bold font-serif">Diabetes Management</div>
@@ -40,7 +40,7 @@ function Services(){
                     </button> */}
                 </div>
 
-                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 transition transform duration-400 ease-in-out rounded-lg
+                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 active:scale-110 transition transform duration-400 ease-in-out rounded-lg
                 text-center flex flex-col justify-center gap-5 items-center"
                 >
                     <div className="text-xl font-bold font-serif">Diabetes Management</div>
@@ -51,7 +51,7 @@ function Services(){
                     </button> */}
                 </div>
 
-                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 transition transform duration-400 ease-in-out rounded-lg
+                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 active:scale-110 transition transform duration-400 ease-in-out rounded-lg
                 text-center flex flex-col justify-center gap-5 items-center"
                 >
                     <div className="text-xl font-bold font-serif">Diabetes Management</div>
@@ -62,7 +62,7 @@ function Services(){
                     </button> */}
                 </div>
 
-                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 transition transform duration-400 ease-in-out rounded-lg
+                <div className="shadow-lg shadow-gray-400 p-4 h-70 w-70 hover:scale-110 active:scale-110 transition transform duration-400 ease-in-out rounded-lg
                 text-center flex flex-col justify-center gap-5 items-center"
                 >
                     <div className="text-xl font-bold font-serif">Diabetes Management</div>

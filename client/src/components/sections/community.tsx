@@ -41,7 +41,7 @@ function Community(){
             <h1 className="text-4xl font-serif mb-2">Community</h1>
             <h2 className="text-2xl font-serif italic"> My <span className="text-blue-500 text-3xl">Online Presence</span></h2>
 
-            <div className="flex flex-row items-center shadow-lg rounded-lg lg:p-10 min-h-64 p-5 m-5 relative">
+            <div className="flex flex-row items-center shadow-lg shadow-gray-400 rounded-lg lg:p-10 min-h-64 p-5 m-5 relative">
                 <iframe 
                     width="100%" 
                     height="auto" 
