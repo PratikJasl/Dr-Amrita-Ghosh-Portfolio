@@ -15,7 +15,7 @@ function Navbar(){
             <div className="flex flex-row justify-between shadow-lg w-full p-4 font-serif fixed bg-white z-10">
                 
                 <div className="text-xl font-semibold italic text-black">
-                   <a href="#home">Dr Amrita Gosh</a>
+                   <a href="#home">Dr Amrita Ghosh</a>
                 </div>
 
                 <div className="lg:hidden flex items-center">
