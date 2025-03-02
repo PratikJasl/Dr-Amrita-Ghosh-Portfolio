@@ -4,10 +4,12 @@ import pattern1 from "../../assets/pat-1.png";
 function Testimonials(){
     return(
         <section id="testimonials" className="mb-20 flex flex-col items-center p-10">
-            
-            <h1 className="text-4xl font-serif mb-2">Testimonials</h1>
-            <h2 className="text-2xl font-serif italic"> what our <span className="text-blue-500 text-3xl">patients say</span></h2>
 
+            <div className="flex flex-col items-center font-serif">
+                <h1 className="text-3xl mb-2">Testimonials</h1>
+                <h2 className="text-2xl italic"> what our <span className="text-blue-500 text-3xl">patients say</span></h2>
+            </div>
+            
             <div className="flex flex-row gap-10 m-10 w-full h-110 p-5 overflow-x-auto scrollbar-custom">
 
                 <div className="flex flex-col gap-3 justify-start min-w-64 lg:flex-shrink-0 lg:w-90 items-center relative p-5 shadow-lg shadow-gray-400 rounded-xl text-center">
