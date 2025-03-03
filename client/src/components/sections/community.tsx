@@ -40,7 +40,7 @@ function Community(){
         <section id="community" className="mb-50 lg:p-10 text-center">
             <div className="font-serif">
                 <h1 className="text-3xl mb-2">Community</h1>
-                <h2 className="text-2xl italic"> My <span className="text-blue-500 text-3xl">Online Presence</span></h2>
+                <h2 className="text-2xl italic"> my <span className="text-blue-500 text-3xl">online presence</span></h2>
             </div>
             
 

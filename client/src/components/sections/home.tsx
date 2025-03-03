@@ -16,17 +16,19 @@ function Home(){
                 </div>
 
                 <div className="text-center font-serif flex flex-col gap-5 items-center">
+
                     <p className="lg:text-4xl text-xl">Meet</p>
-                    <p className="lg:text-5xl text-2xl">Dr.Amrita Ghosh</p>
+                    <p className="lg:text-5xl text-2xl">Dr. Amrita Ghosh</p>
+                    <p className="lg:text-2xl text-2xl italic">Diabetes Specailist & Endocrinologist, Fortis Hospital</p>
                     <p className="text-justify"> 
-                        Dr.Amrita Ghosh has completed her graduation from Govt. Medical College Nagpur, 
+                        Dr. Amrita Ghosh has completed her graduation from Govt. Medical College Nagpur, 
                         Post Graduate diploma and fellow ship in Diabetes from M.V Hospital for 
                         Diabetes and Professor M.Viswanathan Diabetes Research Centre (WHO collaborating centre) 
-                        and Post graduate diploma in Clinical Endocrinology and Diabetes, certified by Royal college of Physicians , UK. 
+                        and Post graduate diploma in Clinical Endocrinology and Diabetes, certified by Royal college of Physicians, UK. 
                     </p>
                     <p className="text-justify">
-                        Her main areas of interest lies in type 1diabetes and new technology related to diabetes management, gestation diabetes.
-                        She is actively involved in Type 1 Diabetes advocacy and support groups. She has publication is international journals and member of international bodies.
+                        Her main areas of interest lies in type-1 diabetes, gestation diabetes and new technology related to diabetes management.
+                        She is actively involved in Type-1 Diabetes advocacy and support groups. She has publication in international journals and is a member of international bodies.
                     </p>
 
                     <div className="flex flex-row gap-5 w-full justify-center">
