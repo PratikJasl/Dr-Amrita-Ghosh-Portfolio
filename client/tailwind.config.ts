@@ -1,5 +1,4 @@
 import scrollbar from 'tailwind-scrollbar';
-import daisyui from 'daisyui';
 
 export default {
   theme: {
@@ -10,7 +9,6 @@ export default {
     },
   },
   plugins: [
-    scrollbar,
-    daisyui
+    scrollbar
   ],
 };
