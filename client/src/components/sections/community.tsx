@@ -32,7 +32,7 @@ function Community(){
 
     function previousVideo(){
         setCurrentIndex(
-            (prevIndex) => (prevIndex - 1 + videoLinks.length) % videoLinks.length // Loop back to the first video
+            (prevIndex) => (prevIndex - 1 + videoLinks.length) % videoLinks.length
         );
     }
 
@@ -51,7 +51,7 @@ function Community(){
                     src= {updateVideo()} 
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
                     allowFullScreen
-                    className="rounded-lg lg:h-120 h-64">
+                    className="rounded-lg lg:h-140 h-64">
                 </iframe>
 
                 
