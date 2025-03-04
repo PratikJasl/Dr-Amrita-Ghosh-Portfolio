@@ -15,6 +15,7 @@ function Carousel() {
     setImageLinks([slide1, slide2, signature]);
   }, []);
 
+  // Change the image every 5 second using setInterval.
   useEffect(() => {
     const interval = setInterval(() => {
       setIsFading(true);
@@ -26,6 +27,7 @@ function Carousel() {
     return () => clearInterval(interval);
   }, [imageLinks.length]);
 
+  //Introduce a delay of 500ms before changing the image
   const nextImage = () => {
     setIsFading(true); 
     setTimeout(() => {
@@ -34,6 +36,7 @@ function Carousel() {
     }, 500);
   };
 
+  //Introduce a delay of 500ms before changing the image
   const previousImage = () => {
     setIsFading(true); 
     setTimeout(() => {
