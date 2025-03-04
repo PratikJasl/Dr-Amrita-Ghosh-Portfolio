@@ -6,13 +6,14 @@ import Services from './components/sections/services'
 import Testimonials from './components/sections/testimonials'
 import Community from './components/sections/community'
 import Contact from './components/sections/contact'
+import Carousel from './components/sections/carasoul'
 
 function App() {
   return (
     <>
       <Navbar/>
 
-      <div className="pt-30">
+      <div className="pt-15">
         <Routes>
           <Route path="/Home" element={<Home/>}></Route>
           <Route path="/Services" element={<Services/>}></Route>
@@ -22,7 +23,7 @@ function App() {
         </Routes>
       </div>
       
-      
+      <Carousel />
       <Home/>
       <Services />
       <Testimonials />

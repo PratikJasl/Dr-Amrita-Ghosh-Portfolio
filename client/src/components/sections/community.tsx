@@ -62,7 +62,6 @@ function Community(){
                 <button onClick={nextVideo} className="absolute right-0 hover:cursor-pointer bg-gray-100 p-2 rounded-full hover:bg-gray-300">
                     <ChevronRightIcon className="h-6 w-6 text-gray-500" />
                 </button>
-                
             </div>
         </section>
     )
